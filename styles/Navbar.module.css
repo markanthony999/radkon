@@ -1,0 +1,44 @@
+.nav {
+	height: -50px;
+	font-family: 'Roboto Condensed';
+	padding: 10px;
+	padding-right: 1.175rem;
+	padding-left: 1.175rem;
+	background: rgba(0, 0, 0, 0.001);
+	font-size: 1.625rem;
+	text-decoration: none;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+.nav a {
+	padding: 2rem;
+	color: white;
+	text-decoration: none;
+}
+.nav a:hover {
+	color: #f82e07;
+}
+.nav ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav ul li a {
+	margin: 5px 15px;
+}
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+	margin-bottom: 2rem;
+	margin-top: 5rem;
+	padding: 0.25rem;
+	padding-top: -20px;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+}

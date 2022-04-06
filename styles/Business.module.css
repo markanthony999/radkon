@@ -1,0 +1,17 @@
+.body {
+	width: 100vw;
+}
+.container {
+	padding-top: 1rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.child {
+	flex: 40%;
+	padding: 3rem;
+}
+
+.h2 {
+	font-size: 0.25rem;
+}
