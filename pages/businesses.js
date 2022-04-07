@@ -218,6 +218,11 @@ export default function Businesses() {
 								padding-bottom: 1rem;
 								font: 'Nunito';
 							}
+							summary{
+								font-weight:bold;
+								color:#f82e07;
+								font-size:24px;
+							}
 							details {
 								font-size: 18px;
 								height: auto;
@@ -225,7 +230,8 @@ export default function Businesses() {
 								padding: 1rem;
 								cursor: pointer;
 								margin-bottom: 1rem;
-							}
+								}
+								
 							// details li {
 							// 	list-style: none;
 							// }
@@ -244,9 +250,11 @@ export default function Businesses() {
 
 							h1,
 							summary {
-								font-size: 1.5rem;
+								font-size: 1.75rem;
 								margin-bottom: 0.875rem;
-							}
+								
+								}
+							
 						`}
 					</style>
 				</div>
