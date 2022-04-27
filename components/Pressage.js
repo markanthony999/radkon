@@ -6,7 +6,7 @@ export default function Pressage() {
 				.container {
 					height: 500px;
 					width: 98.25vw;
-					/* border: 5px solid red; */
+					border: 5px solid red;
 				}
 				h1 {
 					color: white;

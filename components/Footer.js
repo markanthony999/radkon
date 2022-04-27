@@ -4,22 +4,6 @@ import styles from '../styles/Footer.module.css'
 const Footer = () => {
 	return (
 		<>
-			<div className={styles.container}>
-				<Image src="/intel.png" alt="site logo" width={100} height={100} />
-				<Image src="/lenovo.png" alt="site logo" width={100} height={100} />
-				<Image
-					src="/Google_Partner_Education.png"
-					alt="site logo"
-					width={120}
-					height={100}
-				/>
-				<Image
-					src="/Google_Partner_Work.png"
-					alt="site logo"
-					width={120}
-					height={100}
-				/>
-			</div>
 			<div className={styles.footer}>
 				Copyright 2022
 				<br />
